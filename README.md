@@ -7,7 +7,7 @@ they can work with a computer to help them understand the creation process and a
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/sdXQaIWnfTw
 
 # Development Environment
 I used the IntelliJ program to code in Kotlin.
